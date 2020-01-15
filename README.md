@@ -11,3 +11,5 @@ Pandas: 0.25.3
 Scikit-learn: 0.22
 
 To open a notebook, click on your environment where the above packages are installed and open with Jupyter Notebook. Then you can create a new Python 3 notebook from the webpage it opens.
+
+For this example, you will need to first download the Google News word2vec file found here: https://github.com/mmihaltz/word2vec-GoogleNews-vectors
